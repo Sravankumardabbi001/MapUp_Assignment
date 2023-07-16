@@ -64,5 +64,5 @@ You can supply the following:
   ** You can use anyone of http://codesandbox.io/, http://codepen.io/, http://stackblitz.com/ to build and submit your work
 
 Long LineString and scattered lines samples
-  ** download 1: https://bit.ly/3oiCONX
-  ** download 2: https://bit.ly/3krGkTN
+  download 1: https://bit.ly/3oiCONX
+  download 2: https://bit.ly/3krGkTN
